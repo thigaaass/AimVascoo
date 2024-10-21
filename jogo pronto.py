@@ -23,7 +23,7 @@ def carregar_imagem(caminho, largura, altura):
 cenario = carregar_imagem('bgmark.png', LARGURA_JANELA, ALTURA_JANELA)
 jogador_imagem = carregar_imagem("flamengo.png", 40, 40)
 alvo_imagem = carregar_imagem("vasco2.png", 100, 100)
-icone_imagem1 = carregar_imagem("arma.png", 500, 500)
+icone_imagem1 = carregar_imagem("arma1.png", 500, 500)
 icone_imagem2 = carregar_imagem("arma2.png", 500, 500)
 
 #fonte de escrita 
