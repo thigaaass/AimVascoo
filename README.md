@@ -10,4 +10,4 @@ A Partir do jogo Aimlab, pegamos a ideia de jogo e fizemos de nosso jeito, com i
 Mudanças feitas
 Loyout: fundo, cores dos placares, alvos, botões, velocidade de aparecer o alvo e as dimensões do próprio.
 
-Breno Augusto, Felipe Leonardo, Thiago Oliveira
+Breno Augusto, Thiago Oliveira
