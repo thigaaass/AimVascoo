@@ -10,4 +10,4 @@ A partir do jogo Aimlab, inspiramo-nos em sua mecânica e adaptamos para criar o
 Mudanças feitas
 Loyout: fundo, cores dos placares, alvos, botões, velocidade de aparecer o alvo e as dimensões do próprio.
 
-Breno Augusto, Thiago Oliveira
+Breno Cardoso, Thiago Oliveira
